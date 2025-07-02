@@ -74,7 +74,7 @@ export default function LandingPage() {
               </h2>
               <p className="text-base md:text-lg text-gray-700 max-w-2xl mx-auto px-4">
                 Passionate Stanford students from diverse academic backgrounds
-                united by our commitment to veterinary research.
+                united by our commitment to support vets to focus on their patients - not tedious tasks.
               </p>
             </div>
 
@@ -83,42 +83,43 @@ export default function LandingPage() {
                 {[
                   {
                     name: "Lavinia Ceva",
-                    role: "Head of Research",
+                    role: "Student Researcher",
                     major: "Business & Finance",
                     image: "/placeholder.svg?height=300&width=300",
                     mail: "laviniac@stanford.edu",
                   },
                   {
                     name: "Ottavia Minucci",
-                    role: "Research Assistant",
-                    major: "Computer Science",
+                    role: "Student Researcher",
+                    major: "Business & Finance",
                     image: "/placeholder.svg?height=300&width=300",
                     mail: "ominucci@stanford.edu",
                   },
                   {
                     name: "Yuren Hao",
-                    role: "Research Coordinator",
+                    role: "Student Researcher",
                     major: "Computer Science",
                     image: "/placeholder.svg?height=300&width=300",
                     mail: "yurenh@stanford.edu",
                   },
                   {
                     name: "Noah Elia",
-                    role: "Research Assistant",
-                    major: "Chemistry",
-                    image: "/placeholder.svg?height=300&width=300",
+                    role: "Student Researcher",
+                    major: "Business Management",
+                    image: "/noah.jpg?height=300&width=300",
+                    mail: "noahelia@stanford.edu",
                   },
                   {
                     name: "Dan Seiler",
-                    role: "Product & Growth",
-                    major: "Business Manager",
+                    role: "Student Researcher",
+                    major: "Management",
                     image: "/dan.jpg?height=300&width=300",
                     mail: "dseiler@stanford.edu",
                   },
                   {
                     name: "Markus Klepping",
-                    role: "Research Assistant",
-                    major: "Software Engineer",
+                    role: "Student Researcher",
+                    major: "Software Engineering",
                     image: "/markus.jpg?height=300&width=300",
                     mail: "markuskl@stanford.edu",
                   },
@@ -170,7 +171,7 @@ export default function LandingPage() {
             </div>
 
             <h2 className="text-2xl md:text-3xl lg:text-5xl font-bold mb-4 md:mb-6 drop-shadow-lg">
-              Help Shape the Future of Veterinary Medicine
+              Help Shape the Veterinary Clinic of the future.
             </h2>
 
             <p className="text-lg md:text-xl lg:text-2xl opacity-90 max-w-3xl mx-auto leading-relaxed px-4 drop-shadow-md">
@@ -216,7 +217,7 @@ export default function LandingPage() {
                 </div>
                 <div className="flex items-center gap-2 bg-white/10 px-4 py-2 rounded-full backdrop-blur-sm">
                   <Users className="h-4 w-4 md:h-5 md:w-5" />
-                  <span>Stanford Veterinary Research</span>
+                  <span>Stanford University Research</span>
                 </div>
               </div>
             </div>
