@@ -85,7 +85,7 @@ export default function LandingPage() {
                     name: "Lavinia Ceva",
                     role: "Student Researcher",
                     major: "Business & Finance",
-                    image: "/placeholder.svg?height=300&width=300",
+                    image: "/lavinia.jpg?height=300&width=300",
                     mail: "laviniac@stanford.edu",
                   },
                   {
