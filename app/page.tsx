@@ -92,14 +92,14 @@ export default function LandingPage() {
                     name: "Ottavia Minucci",
                     role: "Student Researcher",
                     major: "Business & Finance",
-                    image: "/placeholder.svg?height=300&width=300",
+                    image: "/l.jpg?height=300&width=300",
                     mail: "ominucci@stanford.edu",
                   },
                   {
                     name: "Yuren Hao",
                     role: "Student Researcher",
                     major: "Computer Science",
-                    image: "/placeholder.svg?height=300&width=300",
+                    image: "/l1.jpg?height=300&width=300",
                     mail: "yurenh@stanford.edu",
                   },
                   {
