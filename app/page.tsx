@@ -132,6 +132,7 @@ export default function LandingPage() {
                       <div>
                         <div className="relative w-20 h-20 md:w-24 md:h-24 mx-auto mb-3 md:mb-4">
                           <Image
+                            loading="eager"
                             src={member.image || "/placeholder.svg"}
                             alt={member.name}
                             fill
