@@ -99,7 +99,7 @@ export default function LandingPage() {
                     name: "Yuren Hao",
                     role: "Student Researcher",
                     major: "Computer Science & Art",
-                    image: "/yuren.jpg?height=300&width=300",
+                    image: "/yuren.JPG?height=300&width=300",
                     mail: "yurenh@stanford.edu",
                   },
                   {
