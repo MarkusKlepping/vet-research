@@ -1,6 +1,12 @@
-import React from 'react';
+import React, { Suspense } from "react";
+
 import LandingClient from './LandingClient';
 
 export default function Page() {
-  return <LandingClient />;
+   return (
+    <Suspense fallback={<div>Loading…</div>}>
+      <LandingClient />
+    </Suspense>
+  );
 }
+
